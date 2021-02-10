@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sstv-app",
-    "slug": "sstv-app",
+    "name": "HelloWorld",
+    "slug": "expo-template-tabs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
